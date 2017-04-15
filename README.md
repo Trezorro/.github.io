@@ -1,4 +1,4 @@
 
 This is the github host for my proposal
 
-goto [pattern proposal](trezorro.github.io/patternproposal)
+goto [pattern proposal](https://trezorro.github.io/patternproposal/)
